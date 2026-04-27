@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Sunil56224972/voyage">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&pause=1000&color=2ecc71&center=true&vCenter=true&width=800&lines=Voyage+:+3D+Interactive+Portfolio;Welcome+to+my+Digital+Raft;Built+with+React+%2B+Three.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2ecc71&center=true&vCenter=true&width=600&lines=Voyage+:+3D+Interactive+Portfolio;Welcome+to+my+Digital+Raft;Built+with+React+%2B+Three.js" alt="Typing SVG" />
   </a>
 </div>
 
